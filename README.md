@@ -1,4 +1,5 @@
 👋 Hi, I’m @Mikael-Amare
+I am a grade 11 highschool student at St. Mother Teresa HighSchool
 I am experienced in:
 Python, C
 
